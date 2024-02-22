@@ -5,7 +5,7 @@ Passionate about software development and solving problems as a full-stack enthu
 Let's connect and build something amazing! 🌐 #tanwiraasif
 
 🌐 Connect with me:
-- 📧 Email: tanwiraasif11111@email.com
+- 📧 Email: tanwiraasif11111@gmail.com
 - 🌐 Website: www.tanwiraasif.com
 - 🐦 Twitter: [@YourTwitterHandle]
 - 💼 LinkedIn: https://www.linkedin.com/in/tanwir-aasif-117205206/
