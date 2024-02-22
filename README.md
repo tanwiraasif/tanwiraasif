@@ -18,10 +18,6 @@
 Let's connect and build something amazing!
  </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwiraasif&label=Profile%20views&color=0e75b6&style=flat" alt="tanwiraasif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanwiraasif" alt="tanwiraasif" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tanwiraasif_" target="blank"><img src="https://img.shields.io/twitter/follow/tanwiraasif_?logo=twitter&style=for-the-badge" alt="tanwiraasif_" /></a> </p>
 
 - 🔭 I’m currently working on [tanwiraasif](tanwiraasif)
@@ -50,19 +46,11 @@ Let's connect and build something amazing!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanwiraasif" height="30" width="40" /></a>
-<a href="https://dev.to/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tanwiraasif" height="30" width="40" /></a>
 <a href="https://twitter.com/tanwiraasif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanwiraasif_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanwiraasif" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tanwiraasif" height="30" width="40" /></a>
-<a href="https://codesandbox.com/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tanwiraasif" height="30" width="40" /></a>
 <a href="https://fb.com/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanwiraasif" height="30" width="40" /></a>
 <a href="https://instagram.com/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanwiraasif" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanwiraasif" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tanwiraasif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanwiraasif" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanwiraasif" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanwiraasif" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tanwiraasif" height="30" width="40" /></a>
 <a href="https://discord.gg/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanwiraasif" height="30" width="40" /></a>
 <a href="/tanwiraasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="tanwiraasif" height="30" width="40" /></a>
 </p>
