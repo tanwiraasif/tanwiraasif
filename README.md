@@ -58,10 +58,9 @@ Let's connect and build something amazing!
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/tanwiraasif"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tanwiraasif" /></a>
-<hr/>
 </p>
 <br/>
-
+<hr/>
 <div align="center">
   <h2> Enjoy </h2>
   <br>
