@@ -68,15 +68,7 @@ Let's connect and build something amazing!
   <br/><br/><br/>
 </div>
 
-<hr/>
 
-
-
-<br/><br/>
-
-<hr/>
-<br/>
-<br/>
 
 
 
