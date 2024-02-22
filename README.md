@@ -59,10 +59,9 @@ Let's connect and build something amazing!
 <p><a href="https://www.buymeacoffee.com/tanwiraasif"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tanwiraasif" /></a>
 </p>
 <br/>
-<hr/>
 <br/>
 <div align="center">
-  <h2> Enjoy </h2>
+  <h2> Enjoy🥳 </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
