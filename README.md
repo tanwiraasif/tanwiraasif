@@ -8,6 +8,6 @@ Let's connect and build something amazing! 🌐 #tanwiraasif
 - 📧 Email: tanwiraasif11111@email.com
 - 🌐 Website: www.tanwiraasif.com
 - 🐦 Twitter: [@YourTwitterHandle]
-- 💼 LinkedIn: www.linkdin.com/tanwiraasif
+- 💼 LinkedIn: https://www.linkedin.com/in/tanwir-aasif-117205206/
 
 Let's code and collaborate! 💻✨
