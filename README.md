@@ -75,20 +75,6 @@ Let's connect and build something amazing!
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 
 
 ## Github Stats  
