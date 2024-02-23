@@ -38,7 +38,7 @@ Let's connect and build something amazing!
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanwiraasif&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>  
-<br/>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tanwiraasif"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tanwiraasif" /></a>
 </p>
