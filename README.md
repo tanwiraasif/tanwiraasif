@@ -68,15 +68,6 @@ Let's connect and build something amazing!
   <br/><br/><br/>
 </div>
 
-
-
-  
-
-<br/>  
-
-
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
