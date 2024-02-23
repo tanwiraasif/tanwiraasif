@@ -6,7 +6,6 @@
 
 <h3 align="center">A Passionate Software Developer From India 🇮🇳</h3>
 
-<br/>
 
 <div align="center">
  
