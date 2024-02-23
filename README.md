@@ -32,7 +32,7 @@ Let's connect and build something amazing!
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-## Github Stats  
+## Github Stats:  
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=tanwiraasif&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
@@ -46,10 +46,7 @@ Let's connect and build something amazing!
 <br/>
 <div align="center">
   <h2> Enjoy🥳 </h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 
