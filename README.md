@@ -14,33 +14,7 @@
 🚀Open-source advocate and continuous learner.
 Let's connect and build something amazing!
  </div>
-
-<p align="left"> <a href="https://twitter.com/tanwiraasif_" target="blank"><img src="https://img.shields.io/twitter/follow/tanwiraasif_?logo=twitter&style=for-the-badge" alt="tanwiraasif_" /></a> </p>
-
-- 🔭 I’m currently working on [tanwiraasif](tanwiraasif)
-
-- 🌱 I’m currently learning **Software development and Ethical Hacking**
-
-- 👯 I’m looking to collaborate on [tanwiraasif](tanwiraasitanwir)
-
-- 🤝 I’m looking for help with [tanwiraasif](tanwiraasif)
-
-- 👨‍💻 All of my projects are available at [tanwiraasif](tanwiraasif)
-
-- 📝 I regularly write articles on [tanwiraasif](tanwiraasif)
-
-- 💬 Ask me about **tanwiraasif**
-
-- 📫 How to reach me **tanwiraasif11111@gmail.com**
-
-- 📄 Know about my experiences [tanwiraasif](tanwiraasif)
-
-- ⚡ Fun fact **tanwiraasif**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanwiraasif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanwiraasif_" height="30" width="40" /></a>
