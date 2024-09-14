@@ -4,14 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanwir+Aasif!;" />
 </h1>
 
-<h3 align="center">A Passionate Software Developer From India 🇮🇳</h3>
+<h3 align="center">Full-Stack Web Developer | Data Science & AI Enthusiast | Cybersecurity & Cyber Investigation Professional | Bug Bounty Hunte 🇮🇳</h3>
 
 
 <div align="center">
- Hi iam tanwiraasif Passionate about software development and solving problems as a full-stack enthusiast.
-💻 Crafting code and dreams since 2015.
-🚀Open-source advocate and continuous learner.
-Let's connect and build something amazing!
+Hello, I'm Tanwir Aasif, a dedicated software developer from India 🇮🇳 with a passion for full-stack development 💻, data science 📊, and artificial intelligence 🤖. I have been crafting code and pursuing innovative solutions since 2015. As an advocate for open-source projects 🌐 and a continuous learner 📚, I am also involved in cybersecurity 🔐, cyber investigation 🕵️‍♂️, and bug bounty hunting 🐛.
+
+Let's connect and explore opportunities to build impactful solutions together!
  </div>
 
 
